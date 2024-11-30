@@ -7,6 +7,7 @@
 	<a href="/about">about</a>
 	<a href="/blog">blog</a>
 	<a href="/todos">todos</a>
+	<a href="/threlte">Threlte</a>
 </nav>
 
 {@render children()}
