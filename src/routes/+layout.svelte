@@ -8,6 +8,7 @@
 	<a href="/blog">blog</a>
 	<a href="/todos">todos</a>
 	<a href="/threlte">Threlte</a>
+	<a href="/3js">3js</a>
 </nav>
 
 {@render children()}
