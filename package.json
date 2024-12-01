@@ -38,6 +38,8 @@
 		"@threlte/extras": "^8.12.0",
 		"@threlte/rapier": "^2.0.1",
 		"@threlte/theatre": "^2.1.8",
-		"three": "^0.171.0"
+		"svelte-cubed": "^0.2.1",
+		"three": "^0.171.0",
+		"threlte": "^3.13.1"
 	}
 }
