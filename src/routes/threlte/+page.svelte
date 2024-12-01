@@ -4,7 +4,7 @@
 </script>
 
 <h1>threlte</h1>
-<p>this is the threlte page.</p>
+<p>this is the threlte rendering demo page.</p>
 
 <Canvas>
   <Scene />

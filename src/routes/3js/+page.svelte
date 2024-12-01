@@ -1,7 +1,7 @@
 
 <h1>3js</h1>
 <p>
-	this is the native 3js page.
+	this is the native 3js rendering demo page.
 </p>
 
 <canvas id="c"></canvas>
