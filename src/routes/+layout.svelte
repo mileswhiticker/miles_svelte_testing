@@ -9,6 +9,7 @@
 	<a href="/todos">todos</a>
 	<a href="/threlte">Threlte</a>
 	<a href="/3js">3js</a>
+	<a href="/svelte_cubed">svelte-cubed</a>
 </nav>
 
 {@render children()}
